@@ -5,6 +5,7 @@ class world:
 
 
 if __name__ == '__main__':
+    b = 'hello'
     a = world()
     print(a.greeting_world())
 
