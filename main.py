@@ -9,3 +9,4 @@ if __name__ == '__main__':
     a = world()
     print(a.greeting_world())
 
+print('Hello World')
